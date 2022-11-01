@@ -52,6 +52,4 @@ Socket网络通信过程简单来说分为下面4步:
 ![image-20221101152510322](https://billrepo.oss-cn-hangzhou.aliyuncs.com/doc-img/image-20221101152510322.png)
 
 
-
-<img src="../../../../typora-user-images/image-20221101152113597.png" alt="image-20221101152113597" style="zoom: 67%;" />
-
+<img src="https://billrepo.oss-cn-hangzhou.aliyuncs.com/doc-img/image-20221101152113597.png" alt="image-20221101152113597" style="zoom: 67%;" />
