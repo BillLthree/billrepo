@@ -1,4 +1,4 @@
-# Socket(套接字)
+# socket-simple-demo
 
 Socket是一一个抽象概念，应用程序可以通过它发送或接收数据。在使用Socket进行网络通信的时候，通过Socket就可以让我们的数据在网络中传输。操作套接字的时候，和我们读写文件很像。套接字是IP地址与端口的组合，套接字Socket= (IP 地址:端口号)。
 
@@ -41,11 +41,11 @@ Socket网络通信过程简单来说分为下面4步:
 
 使用IDEA
 
-<img src="../../../../typora-user-images/image-20221101164829326.png" alt="image-20221101164829326" style="zoom: 67%;" />
+<img src="https://billrepo.oss-cn-hangzhou.aliyuncs.com/doc-img/image-20221101164829326.png" alt="image-20221101164829326" style="zoom: 67%;" />
 
 依赖选中spring web，创建一个空的web项目
 
-<img src="../../../../typora-user-images/image-20221101164908894.png" alt="image-20221101164908894" style="zoom:67%;" />
+<img src="https://billrepo.oss-cn-hangzhou.aliyuncs.com/doc-img/image-20221101164908894.png" alt="image-20221101164908894" style="zoom:67%;" />
 
 ## 代码释义
 
